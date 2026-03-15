@@ -76,6 +76,8 @@ print("--------------------------------------------------------------")
 
 ## Output :
 
+![alt text](<Screenshot 2026-03-15 153632.png>)
+
 ## Result : 
 
 Thus the average number of materials in the system and conveyor, waiting time of each material 
